@@ -1,4 +1,4 @@
-# Movie API
+# Movie Info API
 
 ## Overview
 
