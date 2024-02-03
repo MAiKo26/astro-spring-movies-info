@@ -3,6 +3,7 @@
 ## Overview
 
 Welcome to the Movie API repository! This project features a Java backend with Spring Boot, serving as the API for movie-related operations. The front end consists of two parts: an Astro Front-End using React for a dynamic user interface and a Create React App (CRA) Front-End for enhanced functionality.
+Followed this [Tutorial](https://www.youtube.com/watch?v=5PdEmeopJVQ) while doing this project and added my modifications.
 
 ## Java Backend
 
